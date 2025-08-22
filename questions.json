@@ -1,4 +1,10 @@
 {
+  "tests": [
+    {
+      "id": "NounTest2",
+      "title": "Noun Test 2",
+      "durationMinutes": 30,
+      "negative": 0.25,
   "questions": [
     {
       "text": "What is the meaning of “contradiction”?",
@@ -1121,4 +1127,5 @@
       "answer": 0
     }
   ]
+} ]
 }
