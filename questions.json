@@ -1,0 +1,790 @@
+{
+  "tests": [
+    {
+      "id": "NounTest1",
+      "title": "Noun Test",
+      "durationMinutes": 30,
+      "negative": 0.25,
+      "questions": [
+        {
+          "section": "-ory suffix",
+          "text": "Which of the following is a noun ending with '-ory' that means a place for books?",
+          "options": ["Library", "Glory", "Victory", "History"],
+          "answer": 0,
+          "explain": "'Library' is a noun ending with '-ory' that refers to a place where books are kept."
+        },
+        {
+          "section": "-ory suffix",
+          "text": "Which word ending with '-ory' refers to success in battle?",
+          "options": ["Victory", "History", "Factory", "Memory"],
+          "answer": 0,
+          "explain": "'Victory' is a noun with '-ory' meaning success in battle or competition."
+        },
+        {
+          "section": "-ion suffix",
+          "text": "Which word ending with '-ion' refers to the act of creating something?",
+          "options": ["Creation", "Nation", "Station", "Election"],
+          "answer": 0,
+          "explain": "'Creation' is a noun ending with '-ion' that refers to the act of making or producing something."
+        },
+        {
+          "section": "-ion suffix",
+          "text": "Which '-ion' noun means the process of choosing leaders by voting?",
+          "options": ["Election", "Motion", "Station", "Caution"],
+          "answer": 0,
+          "explain": "'Election' is a noun ending with '-ion' that means the process of choosing representatives or leaders."
+        },
+        {
+          "section": "-ion suffix",
+          "text": "Which '-ion' noun refers to the movement from one place to another?",
+          "options": ["Motion", "Creation", "Solution", "Nation"],
+          "answer": 0,
+          "explain": "'Motion' is a noun ending with '-ion' that refers to movement."
+        },
+  {
+    "section": "-ion suffix",
+    "text": "What is the meaning of “abbreviation”?",
+    "options": [
+      "A shortened form of a word or phrase",
+      "A type of plant",
+      "An unusual event",
+      "A musical instrument"
+    ],
+    "answer": 0,
+    "explain": "‘Abbreviation’ means a shortened form of a word or phrase."
+  },
+  {
+    "section": "-ion suffix",
+    "text": "What is the meaning of “aberration”?",
+    "options": [
+      "A departure from what is normal",
+      "A festival of lights",
+      "A small shelter",
+      "A mathematical sign"
+    ],
+    "answer": 0,
+    "explain": "‘Aberration’ means a departure from what is normal or expected."
+  },
+  {
+    "section": "-ion suffix",
+    "text": "What is the meaning of “ablution”?",
+    "options": [
+      "The act of washing oneself",
+      "A place for storing books",
+      "A style of writing",
+      "A type of tree"
+    ],
+    "answer": 0,
+    "explain": "‘Ablution’ means the act of washing oneself, often for ritual purposes."
+  },
+  {
+    "section": "-ion suffix",
+    "text": "What is the meaning of “abnegation”?",
+    "options": [
+      "Self-denial or rejection",
+      "The act of combining things",
+      "A joyful celebration",
+      "A type of fabric"
+    ],
+    "answer": 0,
+    "explain": "‘Abnegation’ means renouncing or rejecting something, especially for moral reasons."
+  },
+  {
+    "section": "-ion suffix",
+    "text": "What is the meaning of “abolition”?",
+    "options": [
+      "The act of formally ending a system or practice",
+      "The act of increasing numbers",
+      "A loud public meeting",
+      "A process of breathing"
+    ],
+    "answer": 0,
+    "explain": "‘Abolition’ means the formal ending of a system, custom, or practice."
+  },{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “accommodation”?",
+  "options": [
+    "A place to stay or adjustment to needs",
+    "A musical instrument",
+    "A law court",
+    "A type of currency"
+  ],
+  "answer": 0,
+  "explain": "‘Accommodation’ means a place to stay, or the act of adapting to someone’s needs."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “accordion”?",
+  "options": [
+    "A musical instrument with keys and bellows",
+    "A type of ship",
+    "A system of laws",
+    "A religious ceremony"
+  ],
+  "answer": 0,
+  "explain": "‘Accordion’ is a musical instrument played by expanding and compressing bellows."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “accretion”?",
+  "options": [
+    "Growth by gradual addition",
+    "A legal judgment",
+    "A type of illness",
+    "A method of cooking"
+  ],
+  "answer": 0,
+  "explain": "‘Accretion’ means growth or increase by gradual addition."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “acculturation”?",
+  "options": [
+    "Adapting to another culture",
+    "A method of farming",
+    "A weather process",
+    "A type of building"
+  ],
+  "answer": 0,
+  "explain": "‘Acculturation’ means adopting cultural traits or patterns of another group."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “accumulation”?",
+  "options": [
+    "The process of gathering or collecting",
+    "A political system",
+    "A medical condition",
+    "A style of painting"
+  ],
+  "answer": 0,
+  "explain": "‘Accumulation’ means the act of collecting or amassing something."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “accusation”?",
+  "options": [
+    "A claim that someone has done something wrong",
+    "A type of transaction",
+    "A religious chant",
+    "A part of a building"
+  ],
+  "answer": 0,
+  "explain": "‘Accusation’ means a charge or claim that someone has committed a fault or crime."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “acquisition”?",
+  "options": [
+    "The act of obtaining or gaining something",
+    "A form of entertainment",
+    "A type of disease",
+    "An agricultural process"
+  ],
+  "answer": 0,
+  "explain": "‘Acquisition’ means the act of gaining possession of something."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “action”?",
+  "options": [
+    "The process of doing something",
+    "A type of bird",
+    "An ancient tool",
+    "A desert plant"
+  ],
+  "answer": 0,
+  "explain": "‘Action’ means the fact or process of doing something."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “adaptation”?",
+  "options": [
+    "The process of adjusting to new conditions",
+    "A type of fruit",
+    "A large mountain",
+    "A legal system"
+  ],
+  "answer": 0,
+  "explain": "‘Adaptation’ means the act of adjusting to suit new conditions."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “addiction”?",
+  "options": [
+    "A strong dependence on a substance or activity",
+    "A style of art",
+    "A farming technique",
+    "A musical rhythm"
+  ],
+  "answer": 0,
+  "explain": "‘Addiction’ means the state of being dependent on something, usually harmful."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “addition”?",
+  "options": [
+    "The act of adding something",
+    "A type of festival",
+    "A desert region",
+    "A cooking method"
+  ],
+  "answer": 0,
+  "explain": "‘Addition’ means the process of adding something."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “adhesion”?",
+  "options": [
+    "The state of sticking or being stuck",
+    "A political movement",
+    "A type of mineral",
+    "A writing style"
+  ],
+  "answer": 0,
+  "explain": "‘Adhesion’ means the action of sticking firmly."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “adjudication”?",
+  "options": [
+    "The act of making a formal judgment",
+    "A celebration of harvest",
+    "A farming tool",
+    "A musical performance"
+  ],
+  "answer": 0,
+  "explain": "‘Adjudication’ means the act of resolving a dispute or deciding a case."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “administration”?",
+  "options": [
+    "The management of an organization or government",
+    "A type of mountain range",
+    "A food preparation method",
+    "A style of painting"
+  ],
+  "answer": 0,
+  "explain": "‘Administration’ means the process of running or managing something."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “admiration”?",
+  "options": [
+    "Respect and warm approval",
+    "A kind of shelter",
+    "A cooking spice",
+    "A farming practice"
+  ],
+  "answer": 0,
+  "explain": "‘Admiration’ means a feeling of respect and approval."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “admission”?",
+  "options": [
+    "The act of allowing entry",
+    "A type of ceremony",
+    "A natural phenomenon",
+    "A type of stone"
+  ],
+  "answer": 0,
+  "explain": "‘Admission’ means the process of being allowed to enter a place or institution."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “admonition”?",
+  "options": [
+    "A gentle warning or reprimand",
+    "A festival dance",
+    "A type of plant",
+    "A water current"
+  ],
+  "answer": 0,
+  "explain": "‘Admonition’ means a mild rebuke or warning."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “adoration”?",
+  "options": [
+    "Deep love and respect",
+    "A type of clothing",
+    "An agricultural crop",
+    "A hunting practice"
+  ],
+  "answer": 0,
+  "explain": "‘Adoration’ means deep love, worship, or respect."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “adulation”?",
+  "options": [
+    "Excessive praise or flattery",
+    "A cooking technique",
+    "A ritual ceremony",
+    "A natural resource"
+  ],
+  "answer": 0,
+  "explain": "‘Adulation’ means giving excessive admiration or praise."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “advection”?",
+  "options": [
+    "The horizontal movement of air or heat",
+    "A political election",
+    "A scientific tool",
+    "A musical instrument"
+  ],
+  "answer": 0,
+  "explain": "‘Advection’ means the transfer of heat or matter by horizontal movement in fluids."
+},{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “affectation”?",
+  "options": [
+    "A type of disease",
+    "An artificial or pretended behavior",
+    "A tool for farming",
+    "A small shelter"
+  ],
+  "answer": 1,
+  "explain": "‘Affectation’ means an unnatural display of behavior intended to impress others."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “agglomeration”?",
+  "options": [
+    "A musical rhythm",
+    "A type of boat",
+    "A style of painting",
+    "A collection or mass of things"
+  ],
+  "answer": 3,
+  "explain": "‘Agglomeration’ means a cluster or mass of things grouped together."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “aggravation”?",
+  "options": [
+    "A style of cooking",
+    "A type of forest",
+    "A religious practice",
+    "A worsening of a situation or condition"
+  ],
+  "answer": 3,
+  "explain": "‘Aggravation’ means making something worse or more severe."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “aggression”?",
+  "options": [
+    "A healing process",
+    "Hostile or violent behavior",
+    "A type of document",
+    "A musical scale"
+  ],
+  "answer": 1,
+  "explain": "‘Aggression’ means violent or hostile behavior toward others."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “agitation”?",
+  "options": [
+    "A type of cloth",
+    "A mountain range",
+    "Restless activity or nervous excitement",
+    "A style of writing"
+  ],
+  "answer": 2,
+  "explain": "‘Agitation’ means a state of nervousness or stirring up public concern."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “alienation”?",
+  "options": [
+    "A musical composition",
+    "A type of currency",
+    "Feeling isolated or estranged",
+    "A farming technique"
+  ],
+  "answer": 2,
+  "explain": "‘Alienation’ means a state of being isolated or estranged from others."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “allegation”?",
+  "options": [
+    "A type of food",
+    "A claim that someone has done something wrong",
+    "A form of art",
+    "A political campaign"
+  ],
+  "answer": 1,
+  "explain": "‘Allegation’ means a claim or assertion, often without proof."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “allocation”?",
+  "options": [
+    "A hunting activity",
+    "A religious symbol",
+    "A style of painting",
+    "The act of distributing or assigning resources"
+  ],
+  "answer": 3,
+  "explain": "‘Allocation’ means the distribution of resources or duties."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “allusion”?",
+  "options": [
+    "An indirect reference to something",
+    "A type of machinery",
+    "A medical instrument",
+    "A kind of fruit"
+  ],
+  "answer": 0,
+  "explain": "‘Allusion’ means an indirect or passing reference to something."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “alteration”?",
+  "options": [
+    "A type of animal",
+    "A musical tone",
+    "A farming product",
+    "A change or modification"
+  ],
+  "answer": 3,
+  "explain": "‘Alteration’ means the process of making a change."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “altercation”?",
+  "options": [
+    "A type of book",
+    "A scientific discovery",
+    "A noisy or heated argument",
+    "A type of food"
+  ],
+  "answer": 2,
+  "explain": "‘Altercation’ means an angry or noisy dispute."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “amalgamation”?",
+  "options": [
+    "The merging of two or more things",
+    "A form of speech",
+    "A type of clothing",
+    "A religious act"
+  ],
+  "answer": 0,
+  "explain": "‘Amalgamation’ means combining or uniting two or more things."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “ambition”?",
+  "options": [
+    "A strong desire to achieve something",
+    "A type of shelter",
+    "A musical genre",
+    "A chemical process"
+  ],
+  "answer": 0,
+  "explain": "‘Ambition’ means a strong determination to achieve success."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “ammunition”?",
+  "options": [
+    "A festival",
+    "Supply of bullets or shells",
+    "A musical chant",
+    "A type of plant"
+  ],
+  "answer": 1,
+  "explain": "‘Ammunition’ means bullets, shells, or other materials used in weapons."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “annihilation”?",
+  "options": [
+    "A kind of musical instrument",
+    "A peaceful ceremony",
+    "A process of digestion",
+    "Complete destruction"
+  ],
+  "answer": 3,
+  "explain": "‘Annihilation’ means total destruction."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “annotation”?",
+  "options": [
+    "A note or comment added to a text",
+    "A type of music",
+    "A kind of plant",
+    "A festival decoration"
+  ],
+  "answer": 0,
+  "explain": "‘Annotation’ means a note or comment for explanation."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “anticipation”?",
+  "options": [
+    "A healing ritual",
+    "Expectation or prediction of something",
+    "A form of dance",
+    "A building style"
+  ],
+  "answer": 1,
+  "explain": "‘Anticipation’ means the act of looking forward to something."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “apparition”?",
+  "options": [
+    "A farming technique",
+    "A ghost or ghost-like image",
+    "A type of poem",
+    "A government post"
+  ],
+  "answer": 1,
+  "explain": "‘Apparition’ means a ghostly figure or sudden appearance."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “appellation”?",
+  "options": [
+    "A kind of building",
+    "A festival song",
+    "A name or title",
+    "A type of rock"
+  ],
+  "answer": 2,
+  "explain": "‘Appellation’ means a name or designation."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “application”?",
+  "options": [
+    "A musical sound",
+    "A formal request or use of something",
+    "A natural event",
+    "A tool for farming"
+  ],
+  "answer": 1,
+  "explain": "‘Application’ means a formal request or the act of putting something to use."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “appreciation”?",
+  "options": [
+    "Recognition of value or gratitude",
+    "A musical dance",
+    "A natural resource",
+    "A style of house"
+  ],
+  "answer": 0,
+  "explain": "‘Appreciation’ means recognizing the value of something or showing gratitude."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “apprehension”?",
+  "options": [
+    "A musical chant",
+    "A method of cooking",
+    "Fear or anxiety about something",
+    "A type of stone"
+  ],
+  "answer": 2,
+  "explain": "‘Apprehension’ means anxiety or dread about future events."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “approbation”?",
+  "options": [
+    "A type of metal",
+    "Approval or praise",
+    "A religious building",
+    "A farming method"
+  ],
+  "answer": 1,
+  "explain": "‘Approbation’ means approval or commendation."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “appropriation”?",
+  "options": [
+    "Taking something for one’s own use",
+    "A medical cure",
+    "A dance step",
+    "A musical tone"
+  ],
+  "answer": 0,
+  "explain": "‘Appropriation’ means the act of taking or assigning something, often without permission."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “ascension”?",
+  "options": [
+    "A type of mineral",
+    "A cooking dish",
+    "The act of rising or going up",
+    "A type of government"
+  ],
+  "answer": 2,
+  "explain": "‘Ascension’ means the act of moving upward, often spiritually."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “aspersion”?",
+  "options": [
+    "A type of medical test",
+    "A damaging or critical remark",
+    "A type of cloth",
+    "A musical chant"
+  ],
+  "answer": 1,
+  "explain": "‘Aspersion’ means a false or damaging statement."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “aspiration”?",
+  "options": [
+    "A farming tool",
+    "A strong desire or hope",
+    "A style of house",
+    "A religious rite"
+  ],
+  "answer": 1,
+  "explain": "‘Aspiration’ means a strong desire or ambition for something."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “assassination”?",
+  "options": [
+    "A style of music",
+    "A natural event",
+    "The act of killing a prominent person",
+    "A farming method"
+  ],
+  "answer": 2,
+  "explain": "‘Assassination’ means the deliberate killing of an important person."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “assertion”?",
+  "options": [
+    "A kind of forest",
+    "A tool for farming",
+    "A confident statement or declaration",
+    "A style of cooking"
+  ],
+  "answer": 2,
+  "explain": "‘Assertion’ means a firm or confident declaration."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “association”?",
+  "options": [
+    "A group organized for a common purpose",
+    "A form of shelter",
+    "A type of art",
+    "A river valley"
+  ],
+  "answer": 0,
+  "explain": "‘Association’ means an organized group of people with a shared goal."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “assumption”?",
+  "options": [
+    "A belief accepted without proof",
+    "A musical tune",
+    "A type of metal",
+    "A hunting method"
+  ],
+  "answer": 0,
+  "explain": "‘Assumption’ means something taken for granted without evidence."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “attention”?",
+  "options": [
+    "A festival game",
+    "A mountain pass",
+    "Notice or focus on something",
+    "A type of food"
+  ],
+  "answer": 2,
+  "explain": "‘Attention’ means the act of focusing on something."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “attraction”?",
+  "options": [
+    "A type of stone",
+    "The quality of drawing interest or pulling toward",
+    "A natural disaster",
+    "A festival event"
+  ],
+  "answer": 1,
+  "explain": "‘Attraction’ means the power to draw interest or pull things together."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “attrition”?",
+  "options": [
+    "Gradual reduction in strength or numbers",
+    "A ritual act",
+    "A type of food",
+    "A kind of forest"
+  ],
+  "answer": 0,
+  "explain": "‘Attrition’ means a gradual weakening or reduction."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “auction”?",
+  "options": [
+    "A public sale to the highest bidder",
+    "A tool for farming",
+    "A type of music",
+    "A natural feature"
+  ],
+  "answer": 0,
+  "explain": "‘Auction’ means a public sale where goods are sold to the highest bidder."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “audition”?",
+  "options": [
+    "A kind of medicine",
+    "A test performance by an actor or musician",
+    "A type of forest",
+    "A style of farming"
+  ],
+  "answer": 1,
+  "explain": "‘Audition’ means a trial performance to judge ability."
+},
+{
+  "section": "-ion suffix",
+  "text": "What is the meaning of “aversion”?",
+  "options": [
+    "A farming technique",
+    "A kind of fruit",
+    "A musical rhythm",
+    "A strong dislike for something"
+  ],
+  "answer": 3,
+  "explain": "‘Aversion’ means a strong dislike or unwillingness toward something."
+}
+
+      ]
+    }
+  ]
+}
