@@ -1,118 +1,112 @@
 {
-  "tests": [
-    {
-      "id": "NounTest2",
-      "title": "Noun Test 2",
-      "durationMinutes": 30,
-      "negative": 0.25,
-      "questions": [
+  "questions": [
     {
       "text": "What is the meaning of “contradiction”?",
       "options": [
-        "a combination of statements that oppose each other; denial of a statement",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a bruise",
+        "a combination of statements that are opposed; denial of a statement",
+        "a heading or text under a picture or article",
+        "the act of gathering things together; a group of gathered items"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “contraption”?",
       "options": [
-        "a strange or overly complicated device",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "an alliance of groups or parties for combined action",
+        "heated disagreement; also, a claim in an argument",
+        "working together for a common purpose",
+        "a strange or overly complicated device"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “contribution”?",
       "options": [
+        "a hobby or minor occupation",
         "something given or done to help achieve a goal",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a large formal assembly of people, often for a ceremony",
+        "the act of collecting and editing material from various sources"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “contrition”?",
       "options": [
         "sincere remorse or penitence",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a firmly held belief; also, a legal finding of guilt",
+        "heated disagreement; also, a claim in an argument",
+        "a strange or overly complicated device"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “contusion”?",
       "options": [
+        "the act of deceiving; trickery",
+        "a strange or overly complicated device",
         "a bruise",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the use of force or threats to make someone do something"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “convention”?",
       "options": [
         "a widely accepted practice or a large formal meeting",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the forming of an idea or the beginning of pregnancy",
+        "the act of collecting and editing material from various sources",
+        "a meeting for advice or discussion"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “conversation”?",
       "options": [
-        "an informal exchange of spoken ideas",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "gold or silver in bulk before coining",
+        "a combination of statements that are opposed; denial of a statement",
+        "a bruise",
+        "an informal exchange of spoken ideas"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “conversion”?",
       "options": [
+        "a coil or twist; complexity",
         "the act of changing from one form or belief to another",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "something given to make up for loss or injury; payment",
+        "feelings of anxiety or dismay, typically at something unexpected"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “conviction”?",
       "options": [
-        "a firmly held belief; also a formal finding of guilt",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a firmly held belief; also, a legal finding of guilt",
+        "the act of bringing something into existence",
+        "the highest or climactic point of something",
+        "a hostile or argumentative meeting or situation"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “convocation”?",
       "options": [
+        "the process by which vapor becomes liquid",
         "a large formal assembly of people, often for a ceremony",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a league or alliance of groups or states",
+        "the act of bringing something to completion or fulfillment"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “convolution”?",
       "options": [
         "a coil or twist; complexity",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "an advanced human society with culture and organization",
+        "a meeting for advice or discussion",
+        "the act of deceiving; trickery"
       ],
       "answer": 0
     },
@@ -120,9 +114,9 @@
       "text": "What is the meaning of “convulsion”?",
       "options": [
         "an involuntary contraction of muscles; a violent upheaval",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the building of something",
+        "the act of damaging someone’s reputation; slander or libel",
+        "something granted, especially in response to demands"
       ],
       "answer": 0
     },
@@ -130,239 +124,239 @@
       "text": "What is the meaning of “cooperation”?",
       "options": [
         "working together for a common purpose",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "an informal exchange of spoken ideas",
+        "the act of devoting time or effort to a purpose",
+        "heated disagreement; also, a claim in an argument"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “correction”?",
       "options": [
+        "the end or a judgment reached after reasoning",
         "the action of making something right or accurate",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a firmly held belief; also, a legal finding of guilt",
+        "sincere remorse or penitence"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “corrosion”?",
       "options": [
-        "gradual destruction of a material by chemical reaction",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a principle or standard for judging something",
+        "the protection and preservation of natural resources",
+        "the state or circumstances of something",
+        "gradual destruction of a material by chemical reaction"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “corruption”?",
       "options": [
+        "the sharing of thoughts or feelings; also, a Christian sacrament",
         "dishonest or fraudulent conduct, especially by those in power",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the process of burning",
+        "the clearing of forests"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “cotillion”?",
       "options": [
+        "the act of deceiving; trickery",
         "a formal social dance or ball",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "rivalry or a contest for a prize",
+        "a brain injury caused by a blow, leading to temporary disturbance"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “creation”?",
       "options": [
+        "a union of two or more things",
+        "a feeling of guilt or moral scruple",
         "the act of bringing something into existence",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a conclusion or resolution reached after consideration"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “cremation”?",
       "options": [
+        "a brain injury caused by a blow, leading to temporary disturbance",
+        "the process of burning",
         "the disposal of a dead body by burning",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the process of becoming narrower or tighter"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “criterion”?",
       "options": [
         "a principle or standard for judging something",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a meeting for advice or discussion",
+        "a blessing or expression of good wishes",
+        "a relationship or link between things"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “culmination”?",
       "options": [
-        "the highest or climactic point of something",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a formal reference to a source or an official summons",
+        "the natural color and appearance of a person’s skin",
+        "the fundamental principles or laws by which a state is governed",
+        "the highest or climactic point of something"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “cultivation”?",
       "options": [
+        "the act of devoting time or effort to a purpose",
+        "the use of many words where fewer would do; evasive speech",
         "the process of growing plants or improving land",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a relationship or link between things"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “cushion”?",
       "options": [
+        "the act of damaging someone’s reputation; slander or libel",
         "a soft pad used to sit or rest upon",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the clearing of forests",
+        "the process by which vapor becomes liquid"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “damnation”?",
       "options": [
+        "an involuntary contraction of muscles; a violent upheaval",
+        "careful thought, typically over time",
         "condemnation to eternal punishment",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a formal reference to a source or an official summons"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “deception”?",
       "options": [
-        "the act of deceiving; trickery",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a firmly held false belief despite contrary evidence",
+        "dishonest or fraudulent conduct, especially by those in power",
+        "sympathetic concern for the suffering of others",
+        "the act of deceiving; trickery"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “decision”?",
       "options": [
-        "a conclusion or resolution reached after consideration",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of showing how something works or a public protest",
+        "a large formal assembly of people, often for a ceremony",
+        "the act of bringing something to completion or fulfillment",
+        "a conclusion or resolution reached after consideration"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “declaration”?",
       "options": [
+        "the exchange of information or ideas",
         "a formal or explicit statement",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a group of stars forming a recognizable pattern",
+        "the act of adorning or the ornaments used"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “decoration”?",
       "options": [
+        "a formal social dance or ball",
         "the act of adorning or the ornaments used",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a hostile or argumentative meeting or situation",
+        "a combination of statements that are opposed; denial of a statement"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “dedication”?",
       "options": [
+        "a group of stars forming a recognizable pattern",
+        "the process of computing or determining by mathematics",
         "the act of devoting time or effort to a purpose",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the sharing of thoughts or feelings; also, a Christian sacrament"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “deduction”?",
       "options": [
         "the act of subtracting or deriving by reasoning",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of bringing something into existence",
+        "a secret agreement for a deceitful or illegal purpose",
+        "a blessing or expression of good wishes"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “defamation”?",
       "options": [
+        "something given to make up for loss or injury; payment",
         "the act of damaging someone’s reputation; slander or libel",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the action of focusing one’s attention; also, gathering in one place",
+        "the deliberate destruction of a building"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “deforestation”?",
       "options": [
+        "the process of computing or determining by mathematics",
         "the clearing of forests",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the natural color and appearance of a person’s skin",
+        "a sweet food or candy"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “deliberation”?",
       "options": [
+        "an alliance of groups or parties for combined action",
+        "something granted, especially in response to demands",
         "long and careful consideration or discussion",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of devoting time or effort to a purpose"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “delusion”?",
       "options": [
         "a firmly held false belief despite contrary evidence",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the use of force or threats to make someone do something",
+        "rivalry or a contest for a prize",
+        "a strange or overly complicated device"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “demolition”?",
       "options": [
+        "a soft pad used to sit or rest upon",
         "the deliberate destruction of a building",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the forming of an idea or the beginning of pregnancy",
+        "an irresistible urge or the state of being forced to do something"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “demonstration”?",
       "options": [
         "the act of showing how something works or a public protest",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "gradual destruction of a material by chemical reaction",
+        "a group assembled for religious worship",
+        "feelings of anxiety or dismay, typically at something unexpected"
       ],
       "answer": 0
     },
@@ -370,269 +364,269 @@
       "text": "What is the meaning of “denomination”?",
       "options": [
         "a recognized religious group or class; also a unit of value",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a large formal assembly of people, often for a ceremony",
+        "the act of marking an occasion with festivities",
+        "the state or circumstances of something"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “compulsion”?",
       "options": [
+        "a person who accompanies or spends time with another",
+        "a stopping or coming to an end",
         "an irresistible urge or the state of being forced to do something",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a principle or standard for judging something"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “compunction”?",
       "options": [
-        "a feeling of guilt or moral scruple",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of damaging someone’s reputation; slander or libel",
+        "the way something is made up; also, a piece of writing or music",
+        "sincere remorse or penitence",
+        "a feeling of guilt or moral scruple"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “computation”?",
       "options": [
+        "a heading or text under a picture or article",
         "calculation by mathematical methods",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the use of force or threats to make someone do something",
+        "a noisy disturbance or confusion"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “concentration”?",
       "options": [
-        "the action of focusing one’s attention; also gathering in one place",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the action of focusing one’s attention; also, gathering in one place",
+        "a feeling of guilt or moral scruple",
+        "the forming of an idea or the beginning of pregnancy",
+        "sympathetic concern for the suffering of others"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “conception”?",
       "options": [
+        "the exchange of information or ideas",
+        "the natural color and appearance of a person’s skin",
         "the forming of an idea or the beginning of pregnancy",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a person who defends a cause or the winner of a contest"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “concession”?",
       "options": [
+        "a feeling of guilt or moral scruple",
         "something granted, especially in response to demands",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "an informal exchange of spoken ideas",
+        "feelings of anxiety or dismay, typically at something unexpected"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “conclusion”?",
       "options": [
+        "the process of burning",
+        "the act of changing from one form or belief to another",
         "the end or a judgment reached after reasoning",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a principle or standard for judging something"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “concoction”?",
       "options": [
-        "a mixture of various ingredients",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "working together for a common purpose",
+        "a feeling of guilt or moral scruple",
+        "a hostile or argumentative meeting or situation",
+        "a mixture of various ingredients"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “concussion”?",
       "options": [
         "a brain injury caused by a blow, leading to temporary disturbance",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of finishing or bringing to an end",
+        "the process of computing or determining by mathematics",
+        "heated disagreement; also, a claim in an argument"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “condemnation”?",
       "options": [
+        "a word that joins clauses or the act of joining",
         "strong disapproval or the act of sentencing",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the clearing of forests",
+        "a large formal assembly of people, often for a ceremony"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “condensation”?",
       "options": [
-        "the process by which vapor becomes liquid",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "praise or an official recommendation",
+        "a widely accepted practice or a large formal meeting",
+        "a stronghold or fortified place; a defender of something",
+        "the process by which vapor becomes liquid"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “condition”?",
       "options": [
         "the state or circumstances of something",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of damaging someone’s reputation; slander or libel",
+        "the way something is made up; also, a piece of writing or music",
+        "a hostile or argumentative meeting or situation"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “confection”?",
       "options": [
+        "the act of bringing something to completion or fulfillment",
+        "a principle or standard for judging something",
         "a sweet food or candy",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a group assembled for religious worship"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “confederation”?",
       "options": [
         "a league or alliance of groups or states",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "working together for a common purpose",
+        "the state or circumstances of something",
+        "the process of growing plants or improving land"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “confession”?",
       "options": [
+        "something given or done to help achieve a goal",
         "an admission of guilt or sin",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "overcrowding or blockage (e.g., traffic or nasal)",
+        "a soft pad used to sit or rest upon"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “conformation”?",
       "options": [
+        "difficulty in emptying the bowels",
         "the shape or structure of something",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a conclusion or resolution reached after consideration",
+        "something given to make up for loss or injury; payment"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “confrontation”?",
       "options": [
         "a hostile or argumentative meeting or situation",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the shape or structure of something",
+        "an advanced human society with culture and organization",
+        "a relationship or link between things"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “confusion”?",
       "options": [
-        "a state of being bewildered or unclear",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "an idea or feeling a word evokes beyond its literal meaning",
+        "the act of marking an occasion with festivities",
+        "a feeling of guilt or moral scruple",
+        "a state of being bewildered or unclear"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “congestion”?",
       "options": [
+        "a sweet food or candy",
         "overcrowding or blockage (e.g., traffic or nasal)",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a recognized religious group or class; also a unit of value",
+        "the exchange of information or ideas"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “congregation”?",
       "options": [
         "a group assembled for religious worship",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "an involuntary contraction of muscles; a violent upheaval",
+        "a firmly held false belief despite contrary evidence",
+        "a widely accepted practice or a large formal meeting"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “conjunction”?",
       "options": [
-        "a word that joins clauses or the act of joining",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the clearing of forests",
+        "a conclusion or resolution reached after consideration",
+        "something given to make up for loss or injury; payment",
+        "a word that joins clauses or the act of joining"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “connection”?",
       "options": [
-        "a relationship or link between things",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a person who defends a cause or the winner of a contest",
+        "a noisy disturbance or confusion",
+        "the natural color and appearance of a person’s skin",
+        "a relationship or link between things"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “connotation”?",
       "options": [
+        "a person who accompanies or spends time with another",
         "an idea or feeling a word evokes beyond its literal meaning",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "long and careful consideration or discussion",
+        "a feeling of guilt or moral scruple"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “conservation”?",
       "options": [
+        "the deliberate destruction of a building",
         "the protection and preservation of natural resources",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a firmly held belief; also, a legal finding of guilt",
+        "heated disagreement; also, a claim in an argument"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “consideration”?",
       "options": [
-        "careful thought, typically over time",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "overcrowding or blockage (e.g., traffic or nasal)",
+        "a large military unit of soldiers",
+        "a hostile or argumentative meeting or situation",
+        "careful thought, typically over time"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “consolation”?",
       "options": [
         "comfort received after a loss or disappointment",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "working together for a common purpose",
+        "the process of making something impure by contact with a pollutant",
+        "a word that joins clauses or the act of joining"
       ],
       "answer": 0
     },
@@ -640,29 +634,29 @@
       "text": "What is the meaning of “constellation”?",
       "options": [
         "a group of stars forming a recognizable pattern",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a strange or overly complicated device",
+        "the act of finishing or bringing to an end",
+        "the act of deceiving; trickery"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “consternation”?",
       "options": [
+        "the act of changing from one form or belief to another",
+        "strong disapproval or the act of sentencing",
         "feelings of anxiety or dismay, typically at something unexpected",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "gold or silver in bulk before coining"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “constipation”?",
       "options": [
         "difficulty in emptying the bowels",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a stronghold or fortified place; a defender of something",
+        "a brain injury caused by a blow, leading to temporary disturbance",
+        "an irresistible urge or the state of being forced to do something"
       ],
       "answer": 0
     },
@@ -670,9 +664,9 @@
       "text": "What is the meaning of “constitution”?",
       "options": [
         "the fundamental principles or laws by which a state is governed",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the process of making something impure by contact with a pollutant",
+        "the act of bringing something to completion or fulfillment",
+        "an advanced human society with culture and organization"
       ],
       "answer": 0
     },
@@ -680,189 +674,189 @@
       "text": "What is the meaning of “constriction”?",
       "options": [
         "the process of becoming narrower or tighter",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "movement around a circuit, e.g., of blood, air, or newspapers",
+        "feelings of anxiety or dismay, typically at something unexpected",
+        "an alliance of groups or parties for combined action"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “construction”?",
       "options": [
+        "the use of force or threats to make someone do something",
+        "a feeling of guilt or moral scruple",
         "the building of something",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a relationship or link between things"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “consultation”?",
       "options": [
+        "sincere remorse or penitence",
         "a meeting for advice or discussion",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "something given or done to help achieve a goal",
+        "the act of adorning or the ornaments used"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “consummation”?",
       "options": [
+        "a heading or text under a picture or article",
+        "a principle or standard for judging something",
         "the act of bringing something to completion or fulfillment",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the exchange of information or ideas"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “consumption”?",
       "options": [
-        "the using up of a resource; historically, tuberculosis",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a principle or standard for judging something",
+        "an advanced human society with culture and organization",
+        "the use of force or threats to make someone do something",
+        "the using up of a resource (historically also tuberculosis)"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “contamination”?",
       "options": [
         "the process of making something impure by contact with a pollutant",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "something granted, especially in response to demands",
+        "an involuntary contraction of muscles; a violent upheaval",
+        "working together for a common purpose"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “contention”?",
       "options": [
-        "heated disagreement; also, a claim in an argument",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a hostile or argumentative meeting or situation",
+        "an irresistible urge or the state of being forced to do something",
+        "the act of marking an occasion with festivities",
+        "heated disagreement; also, a claim in an argument"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “contraction”?",
       "options": [
-        "the process of becoming smaller or drawing together",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "feelings of anxiety or dismay, typically at something unexpected",
+        "an admission of guilt or sin",
+        "gradual destruction of a material by chemical reaction",
+        "the process of becoming smaller or drawing together"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “avocation”?",
       "options": [
+        "rivalry or a contest for a prize",
+        "the process by which vapor becomes liquid",
         "a hobby or minor occupation",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of collecting and editing material from various sources"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “bastion”?",
       "options": [
+        "working together for a common purpose",
+        "the process by which vapor becomes liquid",
         "a stronghold or fortified place; a defender of something",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the shape or structure of something"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “battalion”?",
       "options": [
+        "understanding of something",
         "a large military unit of soldiers",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the process of growing plants or improving land",
+        "the process of burning"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “benediction”?",
       "options": [
         "a blessing or expression of good wishes",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a league or alliance of groups or states",
+        "understanding of something",
+        "a widely accepted practice or a large formal meeting"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “bullion”?",
       "options": [
-        "gold or silver in bulk before coining",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the natural color and appearance of a person’s skin",
+        "a formal social dance or ball",
+        "a violent impact of one object with another",
+        "gold or silver in bulk before coining"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “calculation”?",
       "options": [
         "the process of computing or determining by mathematics",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "an idea or feeling a word evokes beyond its literal meaning",
+        "gold or silver in bulk before coining",
+        "a formal reference to a source or an official summons"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “caption”?",
       "options": [
-        "a heading or text under a picture or article",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a hostile or argumentative meeting or situation",
+        "a relationship or link between things",
+        "the building of something",
+        "a heading or text under a picture or article"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “caution”?",
       "options": [
+        "working together for a common purpose",
         "care taken to avoid danger; a warning",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of finishing or bringing to an end",
+        "a hobby or minor occupation"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “celebration”?",
       "options": [
+        "a sweet food or candy",
+        "the fundamental principles or laws by which a state is governed",
         "the act of marking an occasion with festivities",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of devoting time or effort to a purpose"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “cessation”?",
       "options": [
-        "a stopping or coming to an end",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a bruise",
+        "the clearing of forests",
+        "the end or a judgment reached after reasoning",
+        "a stopping or coming to an end"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “champion”?",
       "options": [
         "a person who defends a cause or the winner of a contest",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a noisy disturbance or confusion",
+        "a secondary problem that makes a situation more difficult",
+        "the process of computing or determining by mathematics"
       ],
       "answer": 0
     },
@@ -870,263 +864,261 @@
       "text": "What is the meaning of “circulation”?",
       "options": [
         "movement around a circuit, e.g., of blood, air, or newspapers",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the process of burning",
+        "a violent impact of one object with another",
+        "a widely accepted practice or a large formal meeting"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “circumlocution”?",
       "options": [
+        "a meeting for advice or discussion",
         "the use of many words where fewer would do; evasive speech",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a principle or standard for judging something",
+        "a blessing or expression of good wishes"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “citation”?",
       "options": [
+        "a group of stars forming a recognizable pattern",
+        "the process of growing plants or improving land",
         "a formal reference to a source or an official summons",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of gathering things together; a group of gathered items"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “civilization”?",
       "options": [
         "an advanced human society with culture and organization",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of finishing or bringing to an end",
+        "a widely accepted practice or a large formal meeting",
+        "the state or circumstances of something"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “coalition”?",
       "options": [
-        "an alliance of groups or parties for combined action",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "an admission of guilt or sin",
+        "the disposal of a dead body by burning",
+        "an irresistible urge or the state of being forced to do something",
+        "an alliance of groups or parties for combined action"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “coercion”?",
       "options": [
         "the use of force or threats to make someone do something",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the building of something",
+        "a conclusion or resolution reached after consideration",
+        "dishonest or fraudulent conduct, especially by those in power"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “collection”?",
       "options": [
+        "a coil or twist; complexity",
+        "the act of finishing or bringing to an end",
         "the act of gathering things together; a group of gathered items",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a blessing or expression of good wishes"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “collision”?",
       "options": [
-        "a violent impact of one object with another",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "movement around a circuit, e.g., of blood, air, or newspapers",
+        "the process of becoming smaller or drawing together",
+        "the use of many words where fewer would do; evasive speech",
+        "a violent impact of one object with another"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “collusion”?",
       "options": [
         "a secret agreement for a deceitful or illegal purpose",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "something given or done to help achieve a goal",
+        "a strange or overly complicated device",
+        "something given to make up for loss or injury; payment"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “combination”?",
       "options": [
-        "a union of two or more things",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the process by which vapor becomes liquid",
+        "a coil or twist; complexity",
+        "a stronghold or fortified place; a defender of something",
+        "a union of two or more things"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “combustion”?",
       "options": [
+        "the act of deceiving; trickery",
+        "the act of showing how something works or a public protest",
         "the process of burning",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the way something is made up; also, a piece of writing or music"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “commendation”?",
       "options": [
-        "praise or an official recommendation",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "long and careful consideration or discussion",
+        "the act of damaging someone’s reputation; slander or libel",
+        "the act of gathering things together; a group of gathered items",
+        "praise or an official recommendation"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “commission”?",
       "options": [
+        "a secondary problem that makes a situation more difficult",
+        "understanding of something",
         "a group officially charged with a task; also, the act of committing or a service fee",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "care taken to avoid danger; a warning"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “commotion”?",
       "options": [
+        "the highest or climactic point of something",
         "a noisy disturbance or confusion",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the process of becoming narrower or tighter",
+        "calculation by mathematical methods"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “communication”?",
       "options": [
+        "careful thought, typically over time",
         "the exchange of information or ideas",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "feelings of anxiety or dismay, typically at something unexpected",
+        "the act of bringing something to completion or fulfillment"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “communion”?",
       "options": [
-        "the sharing of thoughts or feelings; also a Christian sacrament",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the act of marking an occasion with festivities",
+        "the sharing of thoughts or feelings; also, a Christian sacrament",
+        "a formal social dance or ball",
+        "understanding of something"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “companion”?",
       "options": [
-        "a person who accompanies or spends time with another",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "rivalry or a contest for a prize",
+        "the act of collecting and editing material from various sources",
+        "the act of bringing something to completion or fulfillment",
+        "a person who accompanies or spends time with another"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "text": "What is the meaning of “compassion”?",
       "options": [
+        "the action of focusing one’s attention; also, gathering in one place",
+        "a widely accepted practice or a large formal meeting",
         "sympathetic concern for the suffering of others",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a principle or standard for judging something"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “compensation”?",
       "options": [
+        "the clearing of forests",
         "something given to make up for loss or injury; payment",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "condemnation to eternal punishment",
+        "an irresistible urge or the state of being forced to do something"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “competition”?",
       "options": [
         "rivalry or a contest for a prize",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a brain injury caused by a blow, leading to temporary disturbance",
+        "the highest or climactic point of something",
+        "the act of changing from one form or belief to another"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “compilation”?",
       "options": [
+        "the use of many words where fewer would do; evasive speech",
+        "the deliberate destruction of a building",
         "the act of collecting and editing material from various sources",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a coil or twist; complexity"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "text": "What is the meaning of “completion”?",
       "options": [
         "the act of finishing or bringing to an end",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a word that joins clauses or the act of joining",
+        "feelings of anxiety or dismay, typically at something unexpected",
+        "working together for a common purpose"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “complexion”?",
       "options": [
+        "the act of damaging someone’s reputation; slander or libel",
         "the natural color and appearance of a person’s skin",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the exchange of information or ideas",
+        "the process of making something impure by contact with a pollutant"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “complication”?",
       "options": [
         "a secondary problem that makes a situation more difficult",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a noisy disturbance or confusion",
+        "a union of two or more things",
+        "a conclusion or resolution reached after consideration"
       ],
       "answer": 0
     },
     {
       "text": "What is the meaning of “composition”?",
       "options": [
-        "the way something is made up; also a piece of writing or music",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "the action of focusing one’s attention; also, gathering in one place",
+        "the way something is made up; also, a piece of writing or music",
+        "an irresistible urge or the state of being forced to do something",
+        "the building of something"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "text": "What is the meaning of “comprehension”?",
       "options": [
         "understanding of something",
-        "a type of plant",
-        "a musical instrument",
-        "a unit of electrical current"
+        "a state of being bewildered or unclear",
+        "the end or a judgment reached after reasoning",
+        "the process of computing or determining by mathematics"
       ],
       "answer": 0
     }
-  ]
-}
   ]
 }
